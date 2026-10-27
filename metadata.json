@@ -1,0 +1,7 @@
+{
+  "name": "AgriConnect - Farmer & Crop Expert Consultation",
+  "description": "Connect farmers experiencing crop health issues with agricultural experts for diagnosis, schedule booking, and direct consultation chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
